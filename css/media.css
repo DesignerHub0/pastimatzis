@@ -1,0 +1,348 @@
+@media only screen and (max-width: 1280px) {
+    h1 {
+        font-size: 50px;
+    }
+    h2{
+        font-size: 38px;
+    }
+    h3{
+        font-size: 28px;
+    }
+    p{
+        font-size: 14px;
+    }
+    .banner-section .top-section h1{
+        letter-spacing: -4.1px;
+    }
+    .banner-section .top-section{
+        padding: 0 15px;
+    }
+    .banner-section::before{
+        background-size: 90%;
+    }
+    .site-header {
+        padding: 30px;
+    }
+    .business-size .item-wrapper{
+        padding: 65px 25px 25px;
+    }
+    .size-img{
+        width: 80px;
+        height: 95px;
+    }
+    .marketing-wrapper .advertise-text {
+        font-size: 36px;
+        padding: 40px 0;
+    }
+    .marketing-wrapper .user-info .company-name{
+        font-size: 30px;
+    }
+    .what-we-can-do-section .item-wrapper{
+        padding: 30px;
+    }
+    .what-we-can-do-section .item-wrapper h3 {
+        font-size: 23px;
+    }
+    .how-we-helped .how-we-helped-wrapper::before{
+        right: 0;
+        background-size: 80%;
+        background-position: right;
+    }
+    .what-we-can-do-section{
+        padding: 50px 30px;
+    }
+    footer {
+       padding-top: 70px;
+    }
+    .site-footer{
+        padding: 50px 15px;
+    }
+    .site-footer .info-wrapper{
+        padding: 0 23px 15px 0;
+        font-size: 20px;
+    }
+    .how-we-helped::after{
+        bottom: -10%;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .banner-section .top-section {
+        max-width: 600px;
+        margin: 50px auto 100px;
+    }
+    .banner-section .bottom-section{
+        max-width: 600px;
+    }
+    .marketing-wrapper .advertise-text{
+        padding: 40px 0;
+        font-size: 30px;
+        max-width: 680px;
+        margin: 0 auto;
+    }
+    .marketing-wrapper .user-info .company-name {
+        font-size: 26px;
+    }
+    .what-we-can-do-section .item-wrapper {
+        padding: 20px;
+    }
+    .business-size .item-wrapper {
+        padding: 60px 20px 20px;
+    }
+    .marketing-wrapper {
+        padding: 70px 15px;
+    }
+    .text-header {
+        margin: 0 auto 30px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .banner-section .top-section{
+        margin: 20px auto 70px;
+    }
+    .business-size{
+        margin: 30px auto 0;
+    }
+    .what-we-can-do-section{
+        padding: 30px;
+    }
+    .how-we-helped .how-we-helped-wrapper{
+        padding: 70px 0;
+    }
+    footer {
+        padding-top: 0px;
+    }
+    .how-we-helped .how-we-helped-wrapper::before{
+        background-size: 70%;
+    }
+    .how-we-helped::after {
+        bottom: 0%;
+    }
+    .how-we-helped .text-content p {
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+    .site-footer {
+        padding: 30px 15px;
+    }
+    .site-footer h2 {
+        font-size: 26px;
+    }
+    .site-footer .info-wrapper {
+        padding: 0 15px 10px 0;
+        font-size: 17px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .container{
+        padding: 0 15px;
+    }
+    .site-header {
+        padding: 15px;
+    }
+    .header-logo {
+        max-width: 130px;
+    }
+    .banner-section .top-section h1 {
+        letter-spacing: -1.1px;
+        font-size: 40px;
+    }
+    .business-size .item-wrapper {
+        padding: 60px 15px 15px;
+    }
+    .size-img {
+        width: 70px;
+        height: 85px;
+    }
+    .size-img span{
+        width: 42px;
+        height: 42px;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    .banner-section .top-section {
+        margin: 20px auto 50px;
+    }
+    .marketing-wrapper {
+        padding: 50px 15px;
+    }
+    .marketing-wrapper .advertise-text{
+        letter-spacing: -1.1px;
+        padding: 30px 0;
+        font-size: 24px;
+    }
+    .marketing-wrapper .user-info .company-name {
+        font-size: 24px;
+    }
+    .text-header{
+        justify-content: center;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .what-we-can-do-section .item-wrapper {
+        padding: 15px;
+    }
+    .what-we-can-do-section {
+        padding: 20px;
+    }
+    .how-we-helped .how-we-helped-wrapper::before {
+        background-size: 50%;
+        background-position: bottom right;
+    }
+    .how-we-helped .text-content {
+        max-width: 500px;
+    }
+    .site-footer {
+        padding: 20px 15px;
+    }
+}
+@media only screen and (max-width: 668px) {
+    .data-row{
+        justify-content: center;
+    }
+    .data-col-4 {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    .what-we-can-do-section .item-wrapper {
+        margin-bottom: 24px;
+    }
+    .what-we-can-do-section .data-col-4:last-child .item-wrapper {
+        margin-bottom: 0;
+    }
+    .banner-section .top-section h1{
+        font-size: 32px;
+    }
+    h1, h2, h3{
+        padding-bottom: 15px;
+    }
+    h2{
+        letter-spacing: -1.1px;
+        font-size: 28px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .what-we-can-do-section .item-wrapper h3 {
+        font-size: 20px;
+    }
+    .how-we-helped .how-we-helped-wrapper::before{
+        background: none;
+    }
+    .how-we-helped .how-we-helped-wrapper {
+        padding: 50px 0;
+    }
+    .advertise-section{
+        padding-bottom: 50px;
+    }
+    .marketing-wrapper .advertise-text{
+        letter-spacing: 0;
+        font-size: 20px;
+    }
+    .marketing-wrapper .user-info .company-name {
+        font-size: 18px;
+        letter-spacing: 0;
+    }
+    .site-footer p.info-wrapper{
+        align-items: flex-start;
+    }
+    .site-footer .info-wrapper{
+        letter-spacing: 0;
+        font-size: 14px;
+    }
+    .btn{
+        min-width: auto;
+        padding: 12px;
+    }
+    .btn span{
+        font-size: 14px;
+    }
+    .how-we-helped .text-content{
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .banner-section .top-section h1 {
+        font-size: 28px;
+    }
+    p {
+        font-size: 12px;
+    }
+    .banner-section .btn {
+        margin-top: 0;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    h2 {
+        letter-spacing: -1.1px;
+        font-size: 22px;
+    }
+    .business-size {
+        margin: 10px auto 0;
+    }
+    .banner-section .top-section{
+        margin: 20px auto 40px;
+    }
+    .marketing-wrapper {
+        padding: 30px 15px;
+    }
+    .marketing-wrapper .advertise-text {
+        font-size: 16px;
+        padding: 20px 0;
+    }
+    .marketing-wrapper .user-info .company-name {
+        font-size: 16px;
+    }
+    .advertise-section {
+        padding-bottom: 30px;
+    }
+    .how-we-helped .how-we-helped-wrapper {
+        padding: 30px 0;
+    }
+    .how-we-helped .text-content p {
+        font-size: 12px;
+    }
+    footer {
+        padding-bottom: 30px;
+    }
+    .site-footer .info-wrapper img {
+        padding-right: 10px;
+    }
+    .site-footer a.info-wrapper img{
+        width: 26px;
+    }
+    .site-footer .info-wrapper {
+        display: flex;
+        padding-right: 0;
+        text-align: center;
+    }
+    .header-logo {
+        max-width: 110px;
+    }
+    .site-footer h2 {
+        font-size: 22px;
+    }
+    .banner-section::before{
+        background-position: calc(50% - 15px) 48px;
+        
+    }
+}
+@media only screen and (max-width: 375px) {
+    .banner-section .top-section h1 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    h3 {
+        letter-spacing: 0;
+    }
+    .what-we-can-do-section,
+    .what-we-can-do-section .item-wrapper {
+        border-radius: 15px;
+    }
+}

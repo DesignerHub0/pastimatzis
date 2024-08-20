@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20201107 at Wed May 31 05:49:44 2017
+ By 
+(c) 2015-2017 Apple Inc. All rights reserved.
+</metadata>
+<defs>
+<font id="SFProDisplay-Medium" horiz-adv-x="0" >
+  <font-face 
+    font-family="SF Pro Display"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="0 0 6 0 0 0 0 0 0 0"
+    ascent="1638"
+    descent="-410"
+    bbox="100 -494 1948 1950"
+    underline-thickness="145"
+    underline-position="-370"
+    unicode-range="U+0020-2011"
+  />
+<missing-glyph horiz-adv-x="2048" 
+d="M100 -494v256h1848v-256h-1848zM100 -56v256h1848v-256h-1848zM100 381v256h1848v-256h-1848zM100 819v256h1848v-256h-1848zM100 1256v256h1848v-256h-1848zM100 1694v256h1848v-256h-1848z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="2048" 
+d="M100 -494v256h1848v-256h-1848zM100 -56v256h1848v-256h-1848zM100 381v256h1848v-256h-1848zM100 819v256h1848v-256h-1848zM100 1256v256h1848v-256h-1848zM100 1694v256h1848v-256h-1848z" />
+    <glyph glyph-name=".null" 
+ />
+    <glyph glyph-name="nonmarkingreturn" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="415" 
+ />
+    <glyph glyph-name="hyphen" unicode="&#x2011;" horiz-adv-x="888" 
+d="M772 488h-656v195h656v-195z" />
+  </font>
+</defs></svg>
